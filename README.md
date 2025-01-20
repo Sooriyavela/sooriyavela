@@ -7,19 +7,23 @@
 🌐 Focused on leveraging cutting-edge technologies to solve real-world problems.
 
 🏢 Experience
+
 Data Science Intern
+
 NVIT, Frisco, Texas (Jan 2025 - Present)
 
 Applied AI/ML and data science techniques to solve business problems.
 Conducted feasibility studies, including market and technical evaluations.
 
 Software Developer
+
 Cognizant Technology Solutions, Chennai, India (May 2022 - July 2023)
 
 Delivered reusable, efficient code, reducing complexity by 8%.
 Resolved system issues, improving service availability by 35%.
 
 Full-Stack Engineer
+
 Wipro Technologies, Chennai, India (May 2019 - April 2022)
 
 Enhanced data retrieval speeds by 30% with optimized SQL queries.
@@ -28,6 +32,7 @@ Improved application functionality by 25% through API integrations.
 
 
 🛠️ Technical Skills
+
 Web Development: Python, Django, Node.js, React.js, JavaScript, SQL, MongoDB
 AI & ML Libraries: TensorFlow, Keras, PyTorch, Pandas, Scikit-Learn, PySpark
 Generative AI Tools: Langchain, Ctransformers
