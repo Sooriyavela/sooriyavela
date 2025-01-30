@@ -12,9 +12,9 @@ Data Science Intern
 
 NVIT, Frisco, Texas (Jan 2025 - Present)
 
-Applied AI/ML and data science techniques to solve business problems.
-Conducted feasibility studies, including market and technical evaluations.
-
+1. Transformed 100K+ raw records across AWS, Azure, and GCP from Microsoft Fabric Lakehouse to Warehouse using Pandas, improving data quality by 30% for accurate reporting and predictive analytics.
+2. Manipulated cloud cost data using DBT and Python, optimizing cloud spend by 25% through improved cost analysis and forecasting.
+   
 Software Developer
 
 Cognizant Technology Solutions, Chennai, India (May 2022 - July 2023)
