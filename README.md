@@ -33,11 +33,10 @@ Improved application functionality by 25% through API integrations.
 
 🛠️ Technical Skills
 
-Web Development: Python, Django, Node.js, React.js, JavaScript, SQL, MongoDB
-AI & ML Libraries: TensorFlow, Keras, PyTorch, Pandas, Scikit-Learn, PySpark
-Generative AI Tools: Langchain, Ctransformers
-DevOps & Cloud: AWS, Docker, Kubernetes, Git, Jenkins
-Other Skills: Data Structures & Algorithms, Agile, Scrum Practices
+Web Development: Python, Django, HTML, CSS, JavaScript, MySQL/SQL, MongoDB
+AI & ML Libraries: TensorFlow, Keras, PyTorch, Pandas, Scikit-Learn, PySpark, NumPy, Langchain
+DevOps & Cloud: AWS, Docker, Git, Jenkins
+Sofware Methodology: Data Structures & Algorithms, Agile, Scrum Practices
 
 
 <!--
