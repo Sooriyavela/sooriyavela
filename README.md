@@ -19,16 +19,22 @@ Software Developer
 
 Cognizant Technology Solutions, Chennai, India (May 2022 - July 2023)
 
-Delivered reusable, efficient code, reducing complexity by 8%.
-Resolved system issues, improving service availability by 35%.
+• Produced clean, efficient, and reusable code, leading to an 8% reduction in code complexity and execution speed by adhering to best coding practices
+• Resolved critical system issues, decreasing downtime by 35% and improving service availability by monitoring real-time alerts, troubleshooting incidents, and providing timely resolutions
 
 Full-Stack Engineer
 
 Wipro Technologies, Chennai, India (May 2019 - April 2022)
 
-Enhanced data retrieval speeds by 30% with optimized SQL queries.
-Designed a consumer loan application interface using HTML, CSS, and JavaScript.
-Improved application functionality by 25% through API integrations.
+• Engaged in the full software development lifecycle, including coding, testing, and operations, resulting in a 17%
+reduction in post-deployment bugs
+• Streamlined the version control system using Git, reducing merge conflicts by 12%, efficiently managing
+branches, and enforcing best practices for pull requests and code reviews
+• Utilized SQL databases, contributing to a 30% improvement in data retrieval speed by optimizing database
+queries
+• Built the interface for the consumer loan Application using HTML, CSS, and JavaScript
+• Integrated third-party APIs and services, enhancing application functionality by 25% to ensure seamless
+interaction between application components and optimizing backend processes using Django
 
 
 🛠️ Technical Skills
@@ -36,7 +42,7 @@ Improved application functionality by 25% through API integrations.
 Web Development: Python, Django, HTML, CSS, JavaScript, MySQL/SQL, MongoDB
 AI & ML Libraries: TensorFlow, Keras, PyTorch, Pandas, Scikit-Learn, PySpark, NumPy, Langchain
 DevOps & Cloud: AWS, Docker, Git, Jenkins
-Sofware Methodology: Data Structures & Algorithms, Agile, Scrum Practices
+Sofware Methodology: Object-Oriented Design, Data Structures & Algorithms, Agile, Scrum Practices
 
 
 <!--
