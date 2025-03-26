@@ -19,23 +19,23 @@ Software Developer
 
 Cognizant Technology Solutions, Chennai, India (May 2022 - July 2023)
 
-• Produced clean, efficient, and reusable code, leading to an 8% reduction in code complexity and execution speed by adhering to best coding practices
-• Resolved critical system issues, decreasing downtime by 35% and improving service availability by monitoring real-time alerts, troubleshooting incidents, and providing timely resolutions
+1. Produced clean, efficient, and reusable code, leading to an 8% reduction in code complexity and execution speed by adhering to best coding practices
+2. Resolved critical system issues, decreasing downtime by 35% and improving service availability by monitoring real-time alerts, troubleshooting incidents, and providing timely resolutions
 
 Full-Stack Engineer
 
 Wipro Technologies, Chennai, India (May 2019 - April 2022)
 
-• Engaged in the full software development lifecycle, including coding, testing, and operations, resulting in a 17%
-reduction in post-deployment bugs
-• Streamlined the version control system using Git, reducing merge conflicts by 12%, efficiently managing
-branches, and enforcing best practices for pull requests and code reviews
-• Utilized SQL databases, contributing to a 30% improvement in data retrieval speed by optimizing database
-queries
-• Built the interface for the consumer loan Application using HTML, CSS, and JavaScript
-• Integrated third-party APIs and services, enhancing application functionality by 25% to ensure seamless
-interaction between application components and optimizing backend processes using Django
-
+1. Managed the full software development lifecycle for a consumer loan application, reducing post-deployment bugs by
+17% through rigorous testing and streamlined operations
+2. Optimized the version control process for a 10-member development team using Git, reducing merge conflicts by 12% by
+implementing branch management strategies and enforcing best practices for code reviews
+3. Enhanced the performance of an inventory management system by optimizing SQL queries, leading to a 30%
+improvement in data retrieval speed
+4. Designed and developed the user interface for a mortgage lending application using HTML, CSS, and JavaScript,
+improving user satisfaction by 25% based on post-launch surveys
+5. Integrated LexisNexis RESTful APIs for identity verification and fraud prevention, enhancing application functionality by
+25% and streamlining backend processes with Django to ensure seamless component interaction
 
 🛠️ Technical Skills
 
