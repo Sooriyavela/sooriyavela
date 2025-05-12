@@ -44,7 +44,7 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Web
-`Python` `SQL` `R` `Django` `C#` 'HTML' 'CSS' `JavaScript`
+`Python` `SQL` `R` `Django` `C#` `JavaScript`
 
 ### 📚 ML & Data Science
 `TensorFlow` `Keras` `PyTorch` `Pandas` `Scikit-Learn` `PySpark` `NumPy` `LLMs` `RAG` `A/B Testing`
