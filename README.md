@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jeyasooriya Saravanan</h1>
 <p align="center">
 🎓 Graduate Student in <strong>Applied Statistics & Data Science</strong> at <em>The University of Texas at Arlington</em><br>
-💻 4+ years of experience in Python, SQL, and  a strong foundation in Data Science and Machine Learning | 🧠 AI-powered solution builder
+💻 4+ years of experience in Python, SQL, and  a strong foundation in Data Science and ML | 🧠 AI-powered solution builder
 </p>
 
 ---
