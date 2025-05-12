@@ -1,61 +1,69 @@
-👋 Hi, I'm Jeyasooriya Saravanan!
-🎓 Graduate Student in Applied Statistics and Data Science at the University of Texas at Arlington with 3+ years of experience in Python and Machine Learning, specializing in delivering AI-powered solutions to optimize performance.
+<h1 align="center">👋 Hi, I'm Jeyasooriya Saravanan</h1>
+<p align="center">
+🎓 Graduate Student in <strong>Applied Statistics & Data Science</strong> at <em>The University of Texas at Arlington</em><br>
+💻 4+ years of experience in Python, SQL, and  a strong foundation in Data Science and Machine Learning | 🧠 AI-powered solution builder
+</p>
 
-🚀 About Me
-🔍 Passionate about Full-Stack Development, Data Science, and Generative AI.
-🛠️ Skilled in building scalable and efficient applications using a diverse tech stack.
-🌐 Focused on leveraging cutting-edge technologies to solve real-world problems.
+---
 
-🏢 Experience
+## 🚀 About Me
+🔍 Passionate about **Full-Stack Development**, **Data Science**, and **Generative AI**  
+🛠️ Skilled in developing **scalable applications** and delivering **ML-driven insights**  
+🌐 Focused on solving real-world problems with modern tools and intelligent automation
 
-Data Science Intern
+---
 
-NVIT, Frisco, Texas (Jan 2025 - Present)
+## 🏢 Experience
 
-1. Transformed 100K+ raw records across AWS, Azure, and GCP from Microsoft Fabric Lakehouse to Warehouse using Pandas, improving data quality by 30% for accurate reporting and predictive analytics.
-2. Manipulated cloud cost data using DBT and Python, optimizing cloud spend by 25% through improved cost analysis and forecasting.
-   
-Software Developer
+### 📊 Data Science Intern – NVIT, Frisco, TX *(Jan 2025 – May 2025)*
+- 🧼 Transformed 100K+ raw records across AWS, Azure, and GCP from Microsoft Fabric **Lakehouse to Data Warehouse** using Pandas, improving data quality by **30%**
+- 📉 Analyzed and optimized cloud cost data using **Pandas and PySpark**, reducing cloud spend by **25%**
 
-Cognizant Technology Solutions, Chennai, India (May 2022 - July 2023)
+---
 
-1. Produced clean, efficient, and reusable code, leading to an 8% reduction in code complexity and execution speed by adhering to best coding practices
-2. Resolved critical system issues, decreasing downtime by 35% and improving service availability by monitoring real-time alerts, troubleshooting incidents, and providing timely resolutions
+### ✈️ Data Scientist – Trip Intent Classification (Capstone) – American Airlines *(June 2024 – July 2024)*
+- 📈 Built an XGBoost classifier to predict customer trip intent with **82% accuracy** and **84% F1-score**
+- 🧹 Preprocessed 1M+ records in **Snowflake** using feature engineering, normalization, and outlier detection
+- ⚙️ Automated ML workflows with **MLflow** and **Azure ML**, cutting manual effort by **40%**
 
-Full-Stack Engineer
+---
 
-Wipro Technologies, Chennai, India (May 2019 - April 2022)
+### 👨‍💻 Software Developer – Cognizant Technology Solutions *(May 2022 – July 2023)*
+- 🔧 Developed reusable code for a claims system in **C# and JavaScript**, reducing complexity by **8%**
+- 🚨 Resolved critical issues for a crime coverage app, reducing downtime by **35%**
 
-1. Managed the full software development lifecycle for a consumer loan application, reducing post-deployment bugs by
-17% through rigorous testing and streamlined operations
-2. Optimized the version control process for a 10-member development team using Git, reducing merge conflicts by 12% by
-implementing branch management strategies and enforcing best practices for code reviews
-3. Enhanced the performance of an inventory management system by optimizing SQL queries, leading to a 30%
-improvement in data retrieval speed
-4. Designed and developed the user interface for a mortgage lending application using HTML, CSS, and JavaScript,
-improving user satisfaction by 25% based on post-launch surveys
-5. Integrated LexisNexis RESTful APIs for identity verification and fraud prevention, enhancing application functionality by
-25% and streamlining backend processes with Django to ensure seamless component interaction
+---
 
-🛠️ Technical Skills
+### 💻 Full-Stack Engineer – Wipro Technologies *(May 2019 – April 2022)*
+- 🧪 Optimized SQL for inventory systems, boosting data speed by **30%**
+- 🔌 Integrated **LexisNexis APIs** and used **Django** for seamless backend workflows, increasing functionality by **25%**
+- 🧠 Improved Git versioning practices for 10+ devs, cutting merge conflicts by **12%**
 
-Web Development: Python, Django, HTML, CSS, JavaScript, MySQL/SQL, MongoDB
-AI & ML Libraries: TensorFlow, Keras, PyTorch, Pandas, Scikit-Learn, PySpark, NumPy, Langchain
-DevOps & Cloud: AWS, Docker, Git, Jenkins
-Sofware Methodology: Object-Oriented Design, Data Structures & Algorithms, Agile, Scrum Practices
+---
 
+## 🛠️ Technical Skills
 
-<!--
-**Sooriyavela/sooriyavela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming & Web
+`Python` `SQL` `R` `Django` `C#` 'HTML' 'CSS' `JavaScript`
 
-Here are some ideas to get you started:
+### 📚 ML & Data Science
+`TensorFlow` `Keras` `PyTorch` `Pandas` `Scikit-Learn` `PySpark` `NumPy` `LLMs` `RAG` `A/B Testing`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & DevOps
+`AWS` `Docker` `Git`
+
+### 📊 Tools & Methodologies
+`Tableau` `Data Structures & Algorithms` `Agile` `Scrum`
+
+---
+
+## 🧠 LeetCode Stats
+
+📍 [LeetCode Profile →](https://leetcode.com/u/Sooriyavela/)
+
+---
+
+📫 **Let’s Connect**  
+Feel free to connect or collaborate:  [LinkedIn](https://linkedin.com/in/jeyasooriya)
+
+---
