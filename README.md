@@ -59,7 +59,7 @@
 
 ## 🧠 LeetCode Stats
 
-📍 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sooriyavela)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/Sooriyavela)
 
 ---
 
