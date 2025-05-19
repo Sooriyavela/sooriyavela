@@ -62,7 +62,9 @@
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Sooriyavela)
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=Sooriyavela&color=green)
 
+---
 📫 **Let’s Connect**  
 Feel free to connect or collaborate:  [LinkedIn](https://linkedin.com/in/jeyasooriya)
 
